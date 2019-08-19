@@ -2,6 +2,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.container {
+    margin-top: 30px;
+}
+
 .resume-title {
     color: magenta;
 }
@@ -19,13 +23,8 @@ table.skills td.skill-type {
     padding-left: 45em;
 }
 
-.about-section {
-    width: 100%;
-}
-
-.about-section .about-sub-section {
-    display: inline-block;
-    width: 33%;
+.section {
+    margin-top: 20px;
 }
 
 .about-section .about-sub-section.about-address {
